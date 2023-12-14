@@ -1,0 +1,119 @@
+ID,Article Title,prediction type,dependency,Publication Year,Source Title,JCR,CAS
+1,Predicting aging-related bugs using software complexity metrics,Inter-release,defect-prone,2013,PERFORMANCE EVALUATION,3,4
+2,Influence of confirmation biases of developers on software quality: an empirical study,Inter-release,defect-density,2013,SOFTWARE QUALITY JOURNAL,3,4
+3,A fuzzy classifier approach to estimating software quality,Intra-release,module quality,2013,INFORMATION SCIENCES,1,1
+4,Using Software Dependency to Bug Prediction,Inter-release,defect-prone/defect-severity,2013,MATHEMATICAL PROBLEMS IN ENGINEERING,4,4
+5,A STUDY OF SOFTWARE METRIC SELECTION TECHNIQUES: STABILITY ANALYSIS AND DEFECT PREDICTION MODEL PERFORMANCE,Inter-release,defect-prone,2013,INTERNATIONAL JOURNAL ON ARTIFICIAL INTELLIGENCE TOOLS,4,4
+6,Software defect prediction using Bayesian networks,Intra-release,defect-prone,2014,EMPIRICAL SOFTWARE ENGINEERING,2,2
+7,Two-Stage Cost-Sensitive Learning for Software Defect Prediction,Intra-release,defect-prone,2014,IEEE TRANSACTIONS ON RELIABILITY,1,2
+8,Predicting software defects with causality tests,Inter-release,defect-prone,2014,JOURNAL OF SYSTEMS AND SOFTWARE,2,2
+9,Combining the requirement information for software defect estimation in design time,Intra-release,defect-prone,2014,INFORMATION PROCESSING LETTERS,4,4
+10,The Use of Ensemble-Based Data Preprocessing Techniques for Software Defect Prediction,Inter-release,defect-prone,2014,INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING,4,4
+11,An empirical study on software defect prediction with a simplified metric set,Inter-release/Cross-project,defect-prone,2015,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+12,A fuzzy logic based approach for phase-wise software defects prediction using software metrics,Inter-release,defect-density/defect-number,2015,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+13,Detecting software design defects using relational association rule mining,Cross-project,defect-prone,2015,KNOWLEDGE AND INFORMATION SYSTEMS,3,4
+14,Improving Recall of software defect prediction models using association mining,Intra-release,defect-prone,2015,KNOWLEDGE-BASED SYSTEMS,1,1
+15,An empirical analysis of package-modularization metrics: Implications for software fault-proneness,Intra-release,defect-prone,2015,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+16,An Empirical Investigation on Wrapper-Based Feature Selection for Predicting Software Quality,Intra-release,defect-prone,2015,INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING,4,4
+18,Software defect prediction using ensemble learning on selected features,Intra-release,defect-prone,2015,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+19,Exploring community structure of software Call Graph and its applications in class cohesion measurement,Intra-release,defect-prone,2015,JOURNAL OF SYSTEMS AND SOFTWARE,2,2
+20,Maximum Entropy Discrimination Poisson Regression for Software Reliability Modeling,Inter-release,defect-number,2015,IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS,1,1
+21,Developer Micro Interaction Metrics for Software Defect Prediction,Intra-release,defect-prone,2016,IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,1,1
+22,Deriving thresholds of software metrics to predict faults on open source software: Replicated case studies,Inter-release,defect-prone,2016,EXPERT SYSTEMS WITH APPLICATIONS,1,1
+23,A new fuzzy rule based algorithm for estimating software faults in early phase of development,Intra-release,defect-number,2016,SOFT COMPUTING,2,3
+25,Empirical analysis of network measures for predicting high severity software faults,Inter-release/Cross-project,defect-prone,2016,SCIENCE CHINA-INFORMATION SCIENCES,1,2
+26,Analyzing and predicting software integration bugs using network analysis on requirements dependency network,Inter-release/Cross-project,defect-number,2016,REQUIREMENTS ENGINEERING,2,2
+27,SAMPLING IMBALANCE DATASET FOR SOFTWARE DEFECT PREDICTION USING HYBRID NEURO-FUZZY SYSTEMS WITH NAIVE BAYES CLASSIFIER,Intra-release,defect-prone,2016,TEHNICKI VJESNIK-TECHNICAL GAZETTE,4,4
+28,Empirical Studies of a Two-Stage Data Preprocessing Approach for Software Fault Prediction,Intra-release,defect-prone,2016,IEEE TRANSACTIONS ON RELIABILITY,1,2
+29,The Use of Summation to Aggregate Software Metrics Hinders the Performance of Defect Prediction Models,Intra-release,defect-prone/defect-number/defect-severity,2017,IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,1,1
+30,An empirical analysis of the effectiveness of software metrics and fault prediction model for identifying faulty classes,Intra-release,defect-prone,2017,COMPUTER STANDARDS & INTERFACES,1,2
+31,A Combined-Learning Based Framework for Improved Software Fault Prediction,Intra-release,defect-prone,2017,INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS,3,4
+32,A feature selection approach based on a similarity measure for software defect prediction,Intra-release,defect-prone,2017,FRONTIERS OF INFORMATION TECHNOLOGY & ELECTRONIC ENGINEERING,2,3
+33,Which type of metrics are useful to deal with class imbalance in software defect prediction?,Intra-release,defect-prone,2017,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+34,Software bug prediction using object-oriented metrics,Cross-project,defect-prone,2017,SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES,3,4
+35,A Cluster Based Feature Selection Method for Cross-Project Software Defect Prediction,Cross-project,defect-prone,2017,JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY,3,3
+36,A dimensionality reduction-based efficient software fault prediction using Fisher linear discriminant analysis (FLDA),Intra-release,defect-prone,2018,JOURNAL OF SUPERCOMPUTING,2,4
+37,Empirical analysis of change metrics for software fault prediction,Intra-release/Inter-release,defect-prone,2018,COMPUTERS & ELECTRICAL ENGINEERING,2,3
+38,A Framework for Software Defect Prediction and Metric Selection,Intra-release,defect-prone,2018,IEEE ACCESS,2,3
+39,A novel software defect prediction based on atomic class-association rule mining,Intra-release,defect-prone,2018,EXPERT SYSTEMS WITH APPLICATIONS,1,1
+40,Software bug prediction using weighted majority voting techniques,Inter-release,defect-prone,2018,ALEXANDRIA ENGINEERING JOURNAL,1,3
+41,Entropy Churn Metrics for Fault Prediction in Software Systems,Inter-release,defect-number,2018,ENTROPY,2,3
+42,Towards a Reliable Identification of Deficient Code with a Combination of Software Metrics,Intra-release,defect-prone,2018,APPLIED SCIENCES-BASEL,2,4
+43,The Empirical Study of Semi-Supervised Deep Fuzzy C-Mean Clustering for Software Fault Prediction,Intra-release,defect-prone,2018,IEEE ACCESS,2,3
+44,Deep neural network based hybrid approach for software defect prediction using software metrics,Intra-release,defect-prone,2019,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,2,4
+45,Software defect number prediction: Unsupervised vs supervised methods,Intra-release/Inter-release/Cross-project,defect-number,2019,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+46,Automatically identifying code features for software defect prediction: Using AST N-grams,Intra-release,defect-prone,2019,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+47,Software Defect Prediction via Attention-Based Recurrent Neural Network,Intra-release/Inter-release,defect-prone,2019,SCIENTIFIC PROGRAMMING,4,4
+48,Software defect prediction techniques using metrics based on neural network classifier,Intra-release,defect-prone,2019,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,2,4
+49,Performance Analysis of Feature Selection Methods in Software Defect Prediction: A Search Method Approach,Intra-release,defect-prone,2019,APPLIED SCIENCES-BASEL,2,4
+50,An empirical study on pareto based multi-objective feature selection for software defect prediction,Intra-release,defect-prone,2019,JOURNAL OF SYSTEMS AND SOFTWARE,2,2
+51,Seml: A Semantic LSTM Model for Software Defect Prediction,Inter-release/Cross-project,defect-prone,2019,IEEE ACCESS,2,3
+52,Feature selection using firefly algorithm in software defect prediction,Intra-release,defect-prone,2019,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,4,4
+53,An Approach for the Prediction of Number of Software Faults Based on the Dynamic Selection of Learning Techniques,Intra-release/Inter-release,defect-number,2019,IEEE TRANSACTIONS ON RELIABILITY,1,2
+54,The usefulness of software metric thresholds for detection of bad smells and fault prediction,Intra-release,defect-prone,2019,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+55,Majority Vote Feature Selection Algorithm in Software Fault Prediction,Intra-release,defect-prone,2019,COMPUTER SCIENCE AND INFORMATION SYSTEMS,4,4
+56,A fuzzy-filtered neuro-fuzzy framework for software fault prediction for inter-version and inter-project evaluation,Inter-release/Cross-project,defect-prone,2019,APPLIED SOFT COMPUTING,1,2
+57,Experimental Validation of Inheritance Metrics' Impact on Software Fault Prediction,Intra-release,defect-prone,2019,IEEE ACCESS,2,3
+58,An Empirical Study for Enhanced Software Defect Prediction Using a Learning-Based Framework,Intra-release,defect-prone,2019,INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS,3,4
+59,A Hybrid Feature Selection Method for Software Fault Prediction,Intra-release,defect-prone,2019,IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS,4,4
+60,Performance and cost-effectiveness of change burst metrics in predicting software faults,Inter-release,defect-prone,2019,KNOWLEDGE AND INFORMATION SYSTEMS,3,4
+61,Deep Semantic Feature Learning for Software Defect Prediction,Inter-release/Cross-project,defect-prone,2020,IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,1,1
+62,SLDeep: Statement-level software defect prediction using deep-learning model on static code features,Inter-release/Cross-project,defect-prone,2020,EXPERT SYSTEMS WITH APPLICATIONS,1,1
+63,Software fault prediction based on change metrics using hybrid algorithms: An empirical study,Inter-release,defect-prone,2020,JOURNAL OF KING SAUD UNIVERSITY-COMPUTER AND INFORMATION SCIENCES,1,2
+64,Understanding machine learning software defect predictions,Intra-release,defect-prone,2020,AUTOMATED SOFTWARE ENGINEERING,2,3
+65,How Well Do Change Sequences Predict Defects? Sequence Learning from Software Changes,Inter-release,defect-prone,2020,IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,1,1
+66,An Approach to Semantic and Structural Features Learning for Software Defect Prediction,Inter-release,defect-prone,2020,MATHEMATICAL PROBLEMS IN ENGINEERING,4,4
+67,Software Defect Prediction Based on Non-Linear Manifold Learning and Hybrid Deep Learning Techniques,Intra-release,defect-prone,2020,CMC-COMPUTERS MATERIALS & CONTINUA,3,4
+68,A Novel Feature Selection Method Based on Maximum Likelihood Logistic Regression for Imbalanced Learning in Software Defect Prediction,Intra-release,defect-prone,2020,INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY,4,4
+69,Software Defect Prediction Based on Stacked Contractive Autoencoder and Multi-Objective Optimization,Intra-release,defect-prone,2020,CMC-COMPUTERS MATERIALS & CONTINUA,3,4
+70,A Novel Approach for Software Defect prediction Based on the Power Law Function,Intra-release,defect-prone,2020,APPLIED SCIENCES-BASEL,2,4
+71,Process metrics for software defect prediction in object-oriented programs,Inter-release,defect-prone,2020,IET SOFTWARE,3,4
+72,Novel Grey Relational Feature Extraction Algorithm for Software Fault-Proneness Using BBO (B-GRA),Intra-release,defect-prone,2020,ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING,2,4
+73,Cost-Sensitive and Sparse Ladder Network for Software Defect Prediction,Intra-release,defect-prone,2020,IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS,4,4
+74,Software defect prediction via LSTM,Inter-release,defect-prone,2020,IET SOFTWARE,3,4
+75,Automatic Bug Triage in Software Systems Using Graph Neighborhood Relations for Feature Augmentation,Intra-release,defect-severity,2020,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS,1,2
+76,Boosted Whale Optimization Algorithm With Natural Selection Operators for Software Fault Prediction,Intra-release,defect-prone,2021,IEEE ACCESS,2,3
+77,Improved prediction of software defects using ensemble machine learning techniques,Intra-release,defect-prone,2021,NEURAL COMPUTING & APPLICATIONS,2,3
+78,Software defect prediction using hybrid model (CBIL) of convolutional neural network (CNN) and bidirectional long short-term memory (Bi-LSTM),Inter-release/Cross-project,defect-prone,2021,PEERJ COMPUTER SCIENCE,2,4
+79,Evaluating network embedding techniques' performances in software bug prediction,Intra-release,defect-prone,2021,EMPIRICAL SOFTWARE ENGINEERING,2,2
+80,Attention based GRU-LSTM for software defect prediction,Inter-release,defect-prone,2021,PLOS ONE,2,3
+81,Feature Selection Using Artificial Immune Network: An Approach for Software Defect Prediction,Intra-release,defect-prone,2021,INTELLIGENT AUTOMATION AND SOFT COMPUTING,3,4
+82,A Novel Rank Aggregation-Based Hybrid Multifilter Wrapper Feature Selection Method in Software Defect Prediction,Intra-release,defect-prone,2021,COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE,2,3
+83,Discriminating features-based cost-sensitive approach for software defect prediction,Intra-release,defect-prone,2021,AUTOMATED SOFTWARE ENGINEERING,2,3
+84,Analysis and modeling conditional mutual dependency of metrics in software defect prediction using latent variables,Inter-release/Cross-project,defect-prone,2021,NEUROCOMPUTING,2,2
+85,Exclusive use and evaluation of inheritance metrics viability in software fault prediction an experimental study,Intra-release,defect-prone,2021,PEERJ COMPUTER SCIENCE,2,4
+86,DEJIT: A Differential Evolution Algorithm for Effort-Aware Just-in-Time Software Defect Prediction,Intra-release/Inter-release,defect-prone,2021,INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING,4,4
+87,Vovel metrics-novel coupling metrics for improved software fault prediction,Intra-release,defect-prone,2021,PEERJ COMPUTER SCIENCE,2,4
+88,Weighted software metrics aggregation and its application to defect prediction,Intra-release,defect-prone,2021,EMPIRICAL SOFTWARE ENGINEERING,2,2
+89,Research on Cross-Company Defect Prediction Method to Improve Software Security,Cross-project(Cross-company),defect-prone,2021,SECURITY AND COMMUNICATION NETWORKS,3,4
+90,A Novel Effort Measure Method for Effort-Aware Just-in-Time Software Defect Prediction,Inter-release/Cross-project,defect-prone,2021,INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING,4,4
+91,RFC: a feature selection algorithm for software defect prediction,Intra-release,defect-prone,2021,JOURNAL OF SYSTEMS ENGINEERING AND ELECTRONICS,3,3
+92,Software Defect Prediction Based on Gated Hierarchical LSTMs,Inter-release,defect-prone,2021,IEEE TRANSACTIONS ON RELIABILITY,1,2
+94,Prediction of software fault-prone classes using ensemble random forest with adaptive synthetic sampling algorithm,Intra-release,defect-prone,2022,AUTOMATED SOFTWARE ENGINEERING,2,3
+95,Evaluating the impact of feature selection consistency in software prediction,Intra-release,defect-prone,2022,SCIENCE OF COMPUTER PROGRAMMING,4,4
+96,Software defect prediction based on stacked sparse denoising autoencoders and enhanced extreme learning machine,Intra-release,defect-prone,2022,IET SOFTWARE,3,4
+97,Revisiting the Impact of Dependency Network Metrics on Software Defect Prediction,Intra-release/Inter-release/Cross-project,defect-number/defect-prone,2022,IEEE TRANSACTIONS ON SOFTWARE ENGINEERING,1,1
+98,Software defect prediction with semantic and structural information of codes based on Graph Neural Networks,Intra-release/Inter-release/Cross-project,defect-prone,2022,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+99,Software Bug Number Prediction Based on Complex Network Theory and Panel Data Model,Inter-release/Cross-project,defect-number,2022,IEEE TRANSACTIONS ON RELIABILITY,1,2
+100,Software defect prediction based on nested-stacking and heterogeneous feature selection,Inter-release/Cross-project,defect-prone,2022,COMPLEX & INTELLIGENT SYSTEMS,2,2
+101,A Comparative Analysis of SVM and ELM Classification on Software Reliability Prediction Model,Intra-release,defect-prone,2022,ELECTRONICS,2,3
+102,A software defect prediction method with metric compensation based on feature selection and transfer learning,Cross-project,defect-prone,2022,FRONTIERS OF INFORMATION TECHNOLOGY & ELECTRONIC ENGINEERING,2,3
+103,Defect prediction using deep learning with Network Portrait Divergence for software evolution,Intra-release/Cross-project,defect-prone/defect-number,2022,EMPIRICAL SOFTWARE ENGINEERING,2,2
+104,Genetic Evolution-Based Feature Selection for Software Defect Prediction Using SVMs,Intra-release,defect-prone,2022,JOURNAL OF CIRCUITS SYSTEMS AND COMPUTERS,4,4
+105,Research of Software Defect Prediction Model Based on Complex Network and Graph Neural Network,Intra-release,defect-prone,2022,ENTROPY,2,3
+106,Software fault prediction using evolving populations with mathematical diversification,Intra-release,defect-prone,2022,SOFT COMPUTING,2,3
+107,An Approach to Software Defect Prediction Combining Semantic Features and Code Changes,Inter-release,defect-prone,2022,INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING,4,4
+108,Improved mayfly optimization deep stacked sparse auto encoder feature selection scorched gradient descent driven dropout XLM learning framework for software defect prediction,Intra-release,defect-prone,2022,CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE,3,4
+109,Fine-Grained Software Defect Prediction Based on the Method-Call Sequence,Intra-release,defect-density/defect-number,2022,COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE,2,3
+110,A novel multi-view ordinal classification approach for software bug prediction,Intra-release,defect-prone,2022,EXPERT SYSTEMS,2,4
+111,Causally Remove Negative Confound Effects of Size Metric for Software Defect Prediction,Intra-release,defect-prone,2022,APPLIED SCIENCES-BASEL,2,4
+112,Compiler IR-Based Program Encoding Method for Software Defect Prediction,Intra-release/Cross-project,defect-prone,2022,CMC-COMPUTERS MATERIALS & CONTINUA,3,4
+113,Cognitive Complexity and Graph Convolutional Approach Over Control Flow Graph for Software Defect Prediction,Intra-release,defect-prone,2022,IEEE ACCESS,2,3
+114,An in-Depth Analysis of the Software Features' Impact on the Performance of Deep Learning-Based Software Defect Predictors,Intra-release,defect-prone,2022,IEEE ACCESS,2,3
+115,A feature selection model for software defect prediction using binary Rao optimization algorithm,Intra-release,defect-prone,2022,APPLIED SOFT COMPUTING,1,2
+116,Software defect prediction employing BiLSTM and BERT-based semantic feature,Intra-release/Cross-project,defect-prone,2022,SOFT COMPUTING,2,3
+117,An Optimized Feature Selection Method Using Ensemble Classifiers in Software Defect Prediction for Healthcare Systems,Intra-release,defect-prone,2022,WIRELESS COMMUNICATIONS & MOBILE COMPUTING,3,4
+118,Feature Engineering to Heterogeneous Cross Software Projects Defect Prediction: A Novel Framework,Intra-release/Cross-project,defect-prone,2023,ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING,2,4
+119,Issues-Driven features for software fault prediction,Inter-release,defect-prone,2023,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
+120,Adaptive recurrent neural network for software defect prediction with the aid of quantum theory- particle swarm optimization,Intra-release,defect-prone,2023,MULTIMEDIA TOOLS AND APPLICATIONS,2,4
+121,Feature transfer learning by reinforcement learning for detecting software defect,Intra-release,defect-prone,2023,SOFTWARE-PRACTICE & EXPERIENCE,2,4

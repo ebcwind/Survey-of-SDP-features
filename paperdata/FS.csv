@@ -1,0 +1,18 @@
+﻿fID,feature selection
+1,chi-square
+2,Information Gain
+3,Gain Ratio
+4,SU
+5,base on Relief
+6,S2N
+7,CFS
+8,CNS
+9,Wrapper
+10,HFS
+11,based on Fuzzy
+12,based on threshold
+13,cost sensitivity
+14,MetaHeuristic Algorithm
+15,PCA
+16,MIC
+17,Pearson correlation

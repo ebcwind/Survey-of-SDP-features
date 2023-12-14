@@ -1,0 +1,25 @@
+﻿pID,performance metrics
+1,AUC
+2,PD(Probability of Detection)
+3,F-measure
+4,sensitivity
+5,Accuracy
+6,Precision
+7,Specificity
+8,Cost
+9,Recall
+10,MMRE
+11,PRC
+12,BGM
+13,BAM
+14,RMSE
+15,MSE
+16,HV
+17,FPA
+18,G-mean
+19,MCC
+20,FPR(PF)
+21,MAE
+22,R2
+23,CE
+24,ER
