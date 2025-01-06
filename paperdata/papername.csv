@@ -1,4 +1,4 @@
-ID,Article Title,prediction type,dependency,Publication Year,Source Title,JCR,CAS
+﻿ID,Article Title,prediction type,dependency,Publication Year,Source Title,JCR,CAS
 1,Predicting aging-related bugs using software complexity metrics,Inter-release,defect-prone,2013,PERFORMANCE EVALUATION,3,4
 2,Influence of confirmation biases of developers on software quality: an empirical study,Inter-release,defect-density,2013,SOFTWARE QUALITY JOURNAL,3,4
 3,A fuzzy classifier approach to estimating software quality,Intra-release,module quality,2013,INFORMATION SCIENCES,1,1
@@ -43,7 +43,7 @@ ID,Article Title,prediction type,dependency,Publication Year,Source Title,JCR,CA
 44,Deep neural network based hybrid approach for software defect prediction using software metrics,Intra-release,defect-prone,2019,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,2,4
 45,Software defect number prediction: Unsupervised vs supervised methods,Intra-release/Inter-release/Cross-project,defect-number,2019,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
 46,Automatically identifying code features for software defect prediction: Using AST N-grams,Intra-release,defect-prone,2019,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
-47,Software Defect Prediction via Attention-Based Recurrent Neural Network,Intra-release/Inter-release,defect-prone,2019,SCIENTIFIC PROGRAMMING,4,4
+47,Software Defect Prediction via Attention-Based Recurrent Neural Network,Inter-release,defect-prone,2019,SCIENTIFIC PROGRAMMING,4,4
 48,Software defect prediction techniques using metrics based on neural network classifier,Intra-release,defect-prone,2019,CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS,2,4
 49,Performance Analysis of Feature Selection Methods in Software Defect Prediction: A Search Method Approach,Intra-release,defect-prone,2019,APPLIED SCIENCES-BASEL,2,4
 50,An empirical study on pareto based multi-objective feature selection for software defect prediction,Intra-release,defect-prone,2019,JOURNAL OF SYSTEMS AND SOFTWARE,2,2
@@ -74,7 +74,7 @@ ID,Article Title,prediction type,dependency,Publication Year,Source Title,JCR,CA
 75,Automatic Bug Triage in Software Systems Using Graph Neighborhood Relations for Feature Augmentation,Intra-release,defect-severity,2020,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS,1,2
 76,Boosted Whale Optimization Algorithm With Natural Selection Operators for Software Fault Prediction,Intra-release,defect-prone,2021,IEEE ACCESS,2,3
 77,Improved prediction of software defects using ensemble machine learning techniques,Intra-release,defect-prone,2021,NEURAL COMPUTING & APPLICATIONS,2,3
-78,Software defect prediction using hybrid model (CBIL) of convolutional neural network (CNN) and bidirectional long short-term memory (Bi-LSTM),Inter-release/Cross-project,defect-prone,2021,PEERJ COMPUTER SCIENCE,2,4
+78,Software defect prediction using hybrid model (CBIL) of convolutional neural network (CNN) and bidirectional long short-term memory (Bi-LSTM),Inter-release,defect-prone,2021,PEERJ COMPUTER SCIENCE,2,4
 79,Evaluating network embedding techniques' performances in software bug prediction,Intra-release,defect-prone,2021,EMPIRICAL SOFTWARE ENGINEERING,2,2
 80,Attention based GRU-LSTM for software defect prediction,Inter-release,defect-prone,2021,PLOS ONE,2,3
 81,Feature Selection Using Artificial Immune Network: An Approach for Software Defect Prediction,Intra-release,defect-prone,2021,INTELLIGENT AUTOMATION AND SOFT COMPUTING,3,4
@@ -113,7 +113,37 @@ ID,Article Title,prediction type,dependency,Publication Year,Source Title,JCR,CA
 115,A feature selection model for software defect prediction using binary Rao optimization algorithm,Intra-release,defect-prone,2022,APPLIED SOFT COMPUTING,1,2
 116,Software defect prediction employing BiLSTM and BERT-based semantic feature,Intra-release/Cross-project,defect-prone,2022,SOFT COMPUTING,2,3
 117,An Optimized Feature Selection Method Using Ensemble Classifiers in Software Defect Prediction for Healthcare Systems,Intra-release,defect-prone,2022,WIRELESS COMMUNICATIONS & MOBILE COMPUTING,3,4
-118,Feature Engineering to Heterogeneous Cross Software Projects Defect Prediction: A Novel Framework,Intra-release/Cross-project,defect-prone,2023,ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING,2,4
-119,Issues-Driven features for software fault prediction,Inter-release,defect-prone,2023,INFORMATION AND SOFTWARE TECHNOLOGY,2,2
-120,Adaptive recurrent neural network for software defect prediction with the aid of quantum theory- particle swarm optimization,Intra-release,defect-prone,2023,MULTIMEDIA TOOLS AND APPLICATIONS,2,4
-121,Feature transfer learning by reinforcement learning for detecting software defect,Intra-release,defect-prone,2023,SOFTWARE-PRACTICE & EXPERIENCE,2,4
+122,Combining Deep Learning and Kernel PCA for Software Defect Prediction,Intra-release,defect-prone,2022,Association for Computing Machinery,0,0
+123,Software Defect Prediction via GCN based on Structural and Context Information,Inter-release,defect-prone,2022,2022 9th International Conference on Dependable Systems and Their Applications (DSA),0,0
+124,Performance Analysis of Feature Selection Techniques in Software Defect Prediction using Machine Learning,Intra-release,defect-prone,2022,"2022 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)",0,0
+125,Software Defect Density Prediction Using Deep Learning,Cross-project,defect-density,2022,IEEE Access,0,0
+126,CFIWSE: A Hybrid Preprocessing Approach for Defect Prediction on Imbalance Real-World Datasets,Inter-release,defect-prone,2022,"2022 IEEE 22nd International Conference on Software Quality, Reliability, and Security Companion (QRS-C)",0,0
+127,Search-based Feature Selection for Cross-Project Fault Prediction,Cross-project,defect-prone,2022,2022 IEEE Pune Section International Conference (PuneCon),0,0
+128,Semantic Feature Learning based on Double Sequences Structure for Software Defect Number Prediction,Inter-release,defect-number,2022,"2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS)",0,0
+129,Software Defect Prediction via GIN with Hybrid Graphical Features,none,defect-prone,2022,"2022 IEEE 22nd International Conference on Software Quality, Reliability, and Security Companion (QRS-C)",0,0
+130,Just-in-time defect prediction based on AST change embedding,Inter-release/Cross-project,defect-prone,2022,Knowledge-Based Systems,0,0
+131,Precise Learning of Source Code Contextual Semantics via Hierarchical Dependence Structure and Graph Attention Networks,Inter-release/Cross-project,defect-prone,2022,Journal of Systems and Software,0,0
+132,Cross-project defect prediction based on G-LSTM model,Cross-project,defect-prone,2022,Pattern Recognition Letters,0,0
+134,Use of Deep Learning Model with Attention Mechanism for Software Fault Prediction,Inter-release/Cross-project,defect-prone,2021,2021 8th International Conference on Dependable Systems and Their Applications (DSA),0,0
+135,Hybrid Software Defect Prediction Based on LSTM (Long Short Term Memory) and Word Embedding,Intra-release,defect-prone,2021,"2021 2nd International Conference On Smart Cities, Automation & Intelligent Computing Systems (ICON-SONICS)",0,0
+136,Defect Prediction With Semantics and Context Features of Codes Based on Graph Representation Learning,Cross-project,defect-prone,2021,IEEE Transactions on Reliability,0,0
+138,DNNAttention: A deep neural network and attention based architecture for cross project defect number prediction,Cross-project,defect-number,2021,Knowledge-Based Systems,0,0
+139,Joint feature representation learning and progressive distribution matching for cross-project defect prediction,Cross-project,defect-prone,2021,Information and Software Technology,0,0
+140,Software visualization and deep transfer learning for effective software defect prediction,Cross-project/Inter-release,defect-prone,2020,Association for Computing Machinery,0,0
+141,Software Defect Prediction via Transformer,Inter-release,defect-prone,2020,"2020 IEEE 4th Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)",0,0
+142,An Empirical Study on The Impact of The Interaction between Feature Selection and Sampling in Defect Prediction,Intra-release,defect-prone,2020,2020 7th International Conference on Dependable Systems and Their Applications (DSA),0,0
+143,A Universal Model for Defective Classes Prediction Using Different Object-Oriented Metrics Suites,Cross-project,defect-prone,2020,2020 2nd Novel Intelligent and Leading Emerging Sciences Conference (NILES),0,0
+144,An Adversarial Discriminative Convolutional Neural Network for Cross-Project Defect Prediction,Cross-project,defect-prone,2020,IEEE Access,0,0
+145,Within-project and cross-project just-in-time defect prediction based on denoising autoencoder and convolutional neural network,Inter-release/Cross-project,defect-prone,2020,IET Software,0,0
+146,Deep learning based software defect prediction,Intra-release,defect-number,2020,Neurocomputing,0,0
+147,PathPair2Vec: An AST path pair-based code representation method for defect prediction,Inter-release/Cross-project,defect-prone,2020,Journal of Computer Languages,0,0
+148,Empirical Study: Are Complex Network Features Suitable for Cross-Version Software Defect Prediction?,Inter-release,defect-prone,2019,2019 IEEE 10th International Conference on Software Engineering and Service Science (ICSESS),0,0
+149,An Abstract Syntax Tree Encoding Method for Cross-Project Defect Prediction,Cross-project,defect-prone,2019,IEEE Access,0,0
+150,SamEn-SVR: using sample entropy and support vector regression for bug number prediction,Inter-release,defect-number,2018,IET Software,0,0
+151,Software reliability prediction using a deep learning model based on the RNN encoder–decoder,Inter-release,defect-number,2018,Reliability Engineering & System Safety,0,0
+152,Automatically classifying source code using tree-based approaches,none,defect-prone,2018,Data & Knowledge Engineering,0,0
+153,Automatically Learning Semantic Features for Defect Prediction,Cross-project/Inter-release,defect-prone,2016,2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE),0,0
+154,The Impact of Feature Selection on Defect Prediction Performance: An Empirical Comparison,Intra-release,defect-prone,2016,2016 IEEE 27th International Symposium on Software Reliability Engineering (ISSRE),0,0
+155,Empirical analysis of network measures for effort-aware fault-proneness prediction,Inter-release/Cross-project/Intra-release,defect-prone,2016,Information and Software Technology,0,0
+156,"How, and why, process metrics are better",Inter-release,defect-prone,2013,2013 35th International Conference on Software Engineering (ICSE),0,0
+157,Evaluating Performance of Network Metrics for Bug Prediction in Software,Inter-release/Cross-project,defect-prone,2013,2013 20th Asia-Pacific Software Engineering Conference (APSEC),0,0

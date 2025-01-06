@@ -21,4 +21,7 @@
 20,others,其他
 22,RNN,循环神经网络
 23,DBN,深度信念网络
-24,Beysian network,贝叶斯网络
+26,Beysian network,贝叶斯网络
+24,GNN,图神经网络
+25,TRFM,Transformer
+27,AE,自编码器
